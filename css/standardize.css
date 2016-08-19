@@ -1,0 +1,6 @@
+/* This will override defaults set by various browsers to ensure compatibility */
+
+body {
+  margin: 0;
+  padding: 0;
+}
