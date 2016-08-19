@@ -4,3 +4,7 @@ html {
 .header-top {
   min-height: 34px;
 }
+
+.content {
+  display: flex;
+}
